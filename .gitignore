@@ -35,3 +35,5 @@ out/
 Lemo/src/main/resources/application.properties
 Lemo/log/
 Lemo/img/
+### MAC ###
+.DS_Store
